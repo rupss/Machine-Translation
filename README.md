@@ -1,4 +1,5 @@
 Class: CS124 (From Languages to Information), Winter 2013
+
 Teammate: Jujhaar Singh
 
 Translates SpanishText.txt from Spanish to English, using the definitions in spanishDictionary.txt (1 to 1 relationship).
